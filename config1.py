@@ -8,4 +8,4 @@ MODEL = r"KNN_model.pkl"
 
 NORMAL_SCAL = r"normal_scaler.pkl"
 
-PORT  = 5003
+PORT  = 8282
